@@ -69,7 +69,7 @@ class websitecontroller extends Controller
 
     public function registerdriver(Request $request)
     {
-        dd($request);
+        // dd($request);
         $driver=Driver::create($request->all() + ['name' => $request->ownername]);
 
         RentCar::create($request->all() + ['driverid' => $driver->id]);
