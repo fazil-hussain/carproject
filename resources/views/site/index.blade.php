@@ -55,7 +55,7 @@
                                 </div>
                                 <div class="d-flex">
                                     <div class="form-group mr-2">
-                                        <label for="" class="label">Color</label>
+                                        <label for="" class="label">Collllerss</label>
                                         <input type="text" name="color" class="form-control" id="" placeholder="Color">
                                     </div>
                                     <div class="form-group ml-2">
